@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    This will help us add changes/feature without effecting the master. Once the changes are verified then the PR + Merege createion can be followed.
